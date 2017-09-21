@@ -1,5 +1,5 @@
 
-Congratulations, David.  You have found this file.
+Congratulations, Nahum.  You have found this file.
 
 If you did it through a web browser, boo.
 If you did it by cloning my repository, yay!
@@ -24,7 +24,7 @@ Please complete the following steps:
 5.  Send me an e-mail to tsyoo@umbc.edu.
     The subject of your e-mail should be "CMSC 447 Homework 3"
 
-    The text of your e-mail should include the word "wolf"
+    The text of your e-mail should include the word "coffee"
 
     As before, extra points for humor or insightfullness.
     Haiku or limericks are allowed and encouraged.
