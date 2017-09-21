@@ -1,0 +1,21 @@
+
+Hey Dave?
+
+Please complete the following steps:
+
+1.  Modify this file
+    Replace this message with one of your own.
+    Extra points for humor or insightfulness.
+    Haiku or limericks are allowed and encouraged.
+
+2.  Upload your modification to the CMSC447 repository.
+    git add
+    git commit -m "some phunny message"
+    git push
+
+3.  Send me an e-mail to tsyoo@umbc.edu.
+    Your e-mail should include the word "Jedi"
+    As before, extra points for humor or insightfullness.
+    Haiku or limericks are allowed and encouraged.
+
+
