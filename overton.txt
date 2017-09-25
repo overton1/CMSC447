@@ -1,4 +1,4 @@
-
+y
 Congratulations, Damian.  You have found this file.
 
 If you did it through a web browser, boo.
@@ -36,5 +36,7 @@ Please complete the following steps:
 
 --------------------------
 
-Add your message here.
+I created my own repository. Cloned that repository to my UMBC GL account.
+Edited my own file.
+
 
